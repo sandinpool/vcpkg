@@ -1,0 +1,5 @@
+Source: ciftl
+Version: 1.0.1
+Homepage: https://github.com/sandinpool/ciftl
+Description: A cipher toolbox.
+Build-Depends: fmt, crc32c, openssl, gtest
